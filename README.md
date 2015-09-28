@@ -1,2 +1,1 @@
-# poscomp-2015
-POSCOMP 2015.
+# 24 acertos
